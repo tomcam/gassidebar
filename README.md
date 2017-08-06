@@ -2,6 +2,8 @@
 
 ## TODO:
 * Document approval process required to run Apps Script code
+* How to put up a msgbox to display a value
+* How to obtain a value from a form submit
 * Illustrate with Firefox screenshots
 * Add a style sheet
 
